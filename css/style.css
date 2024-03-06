@@ -128,3 +128,9 @@ button[aria-expanded=true]{
 .our-work .box:hover::before{
     transform: translateX(0);
 }
+
+/* Start section stuff */
+
+.descritpion{
+   max-width: 500px; 
+}
