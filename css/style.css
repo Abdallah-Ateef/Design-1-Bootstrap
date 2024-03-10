@@ -161,3 +161,29 @@ button[aria-expanded=true]{
 .project{
     background-color: #19283F;
 }
+
+/* End section project */
+
+/* Start section subscribe */
+ 
+.subscribe{
+    background-color: var(--yellow-color);
+}
+
+.subscribe input[type="email"]{
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.subscribe input[type="email"]:focus{
+    outline: none;
+}
+
+.subscribe a{
+    background-color: #19283F;
+    color: var(--yellow-color);
+}
+
+
+
+/* End section subscribe */
