@@ -184,6 +184,49 @@ button[aria-expanded=true]{
     color: var(--yellow-color);
 }
 
-
-
 /* End section subscribe */
+
+/* Start section footer */
+
+.footer{
+    background-color: var(--dark-color);
+}
+
+
+.footer .copyright span:first-child{
+    color: var(--green-color);
+}
+
+.footer .copyright span:last-child{
+    color: var(--yellow-color);
+}
+
+.footer .social svg{
+    font-size: 15px;
+    width: 20px;
+    height: 20px;
+    color:white;
+    padding:7px;
+    border-radius: 50%;
+}
+
+.facebook{
+    background-color:#1877f2;
+}
+
+.twitter{
+    background-color:#1da1f2;
+}
+
+.linkedin{
+    background-color:#0a66c2;
+}
+
+.youtube{
+    background-color:#ff0000;
+}
+
+
+
+
+/* End section footer */
